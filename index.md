@@ -12,9 +12,11 @@ This site is a portfolio of my work (mainly Anchor).
 
 ### Anchor Dynamics - Autonomous Drone Runtime
 
-Currnetly leading a Simon Fraser University backed team building a offline-first autonomous drone system for search and rescue using NVidia Jetson Orin, MAVSDK, FastAPI, WebSockets, YOLO, ONNX/TensorRT, React, and Tauri.
+Currnetly leading a Simon Fraser University backed team building a offline-first autonomous drone system for search and rescue using Nvidia Jetson Orin, MAVSDK, FastAPI, WebSockets, YOLO, ONNX/TensorRT, React, and Tauri.
 
 [Read the technical writeup &rarr;](/anchor/)
+
+[Visit the website &rarr;](https://anchordynamics.ca/)
 
 ## GitHub
 
