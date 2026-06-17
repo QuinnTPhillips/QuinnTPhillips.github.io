@@ -24,7 +24,7 @@ Starting as a mix of a hackathon project and inspiration drawn from our friend's
 - Push alerts, telemetry, and runtime state to an operator application
 - Keep working over radio without internet connectivity
 - Coordinate mission commands, health status, and detection events in one runtime
-- Easy-to-use system, deployable in minutes, makes search teams stronger
+- Easy-to-use system, deployable in minutes, that makes search teams stronger
 
 ## Core Stack
 
@@ -119,7 +119,7 @@ Using Tauri kept the app performant and offline-friendly while still allowing a 
 
 ## Offline-First Communications
 
-The system was designed for a radio-based Ethernet connection powered by Microhard. While capable, bandwidth, latency, and connectivity still vary in the field during operations, which is a constraint that shaped the architecture early. Offline-first was a must.
+The system was designed for a radio-based Ethernet connection powered by Microhard. While capable, the bandwidth, latency, and connectivity still vary in the field during operations, which is a constraint that shaped the architecture early. Offline-first was a must.
 
 Offline-first in this context meant:
 
