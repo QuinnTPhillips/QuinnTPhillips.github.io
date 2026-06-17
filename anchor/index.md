@@ -8,7 +8,7 @@ title: Building an Offline-First Autonomous Drone Runtime
   <img src="./images/AnchorLogo.jpg" alt="Anchor logo" width="160">
 </p>
 
-Starting as a mix of a hackathon project and inspiration drawn from our friend's ill-fated hike, Horus was born as an autonomous drone system for search and rescue, designed specifically to make small teams more effective through autonomy, machine learning, and easy-to-use software. The system combines flight control, onboard ML inference, operator workflows, and local radio-based WebSockets into one deployable stack, powering 5km+ autonomous flights.
+Starting as a mix of a hackathon project and inspiration drawn from our friend's search and *rescue* experience, Horus was born as an autonomous drone system for search and rescue, designed specifically to make small teams more effective through autonomy, machine learning, and easy-to-use software. The system combines flight control, onboard ML inference, operator workflows, and local radio-based WebSockets into one deployable stack, powering 5km+ autonomous flights.
 
 <p align="center">
   <img src="./images/NewDrone.jpg" alt="Anchor drone airframe used during development" style="max-width: 100%; height: auto;" width="520">
