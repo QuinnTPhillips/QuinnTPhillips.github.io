@@ -2,8 +2,6 @@
 title: Quinn T. Phillips
 ---
 
-# Quinn T. Phillips
-
 Hello, I'm a computer science student at the University of British Columbia and currently a Software Engineer Intern at Microsoft working with C++. 
 
 In my free time I build personal projects, largely in Python, TypeScript and C++ and I'm really interested in applied AI and autonomous systems.
